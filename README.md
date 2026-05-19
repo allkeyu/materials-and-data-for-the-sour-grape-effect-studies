@@ -1,4 +1,4 @@
-# Experimental_Materials_and_Data_of_Sour_Grapes
+# Materials and Data for the Sour Grape Effect Studies
 
 ## Paper Abstract 论文摘要
 
